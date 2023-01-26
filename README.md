@@ -1,4 +1,4 @@
-**Title : Matlab Assignment 1 "Digital Image Processing"
+**Title : Matlab Assignment 1 "Digital Image Processing"**
  Mohsen Ahmadi (Z23640005)
 
  Table of content:** 1- Read MRI images from the directory
